@@ -1,0 +1,6 @@
+{
+  "name": "SKT SPORTS",
+  "description": "Complete Sports Management Ecosystem by Shiv Kheltantra Pvt Ltd: School Sports, Athlete IDs, Fitness, Tournaments, Udaan Girls Development, and Academy Operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
